@@ -6,6 +6,14 @@
 
 Z-score, IQR and Isolation Forest against ground truth. IF has the best F1 (50.4%), catching amount, night-hour and frequency anomalies; Z-score is precise but cautious.
 
+## Navigation
+
+- 📖 [Full case study on the portfolio site](https://nikitaboyarkin.github.io/en/projects/volta/anomalies/)
+- 🏦 [Parent project: volta-banking](https://github.com/NikitaBoyarkin/volta-banking)
+- 🧪 Related cases: [spend](https://github.com/NikitaBoyarkin/case-spend) · [churn](https://github.com/NikitaBoyarkin/case-churn)
+
+**On this page:** [Key results](#key-results) · [Situation](#situation) · [Task](#task) · [Actions](#actions) · [Result](#result) · [Recommendations](#recommendations) · [Charts](#charts) · [Dataset](#dataset) · [Quick start](#quick-start)
+
 ## Key results
 
 - IF — best F1 (50.4%), 401 detections
